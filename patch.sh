@@ -3,7 +3,7 @@ set -e
 
 SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
 LIQUID_GLASS_ASSETS_CAR="${SCRIPT_DIR}/patch-assets/liquid-glass/ApolloLiquidGlass/Assets.car"
-LIQUID_GLASS_ICON_NAME="ApolloLiquidGlass"
+LIQUID_GLASS_ICON_NAME="ApolloLiquidGlassNew"
 
 # Cleanup on exit (success or failure)
 cleanup() {
